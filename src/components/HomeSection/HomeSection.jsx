@@ -55,7 +55,7 @@ function HomeSection() {
                 </div>
             </div>
             <div id='right_home' >
-                <img src="/Hero.JPG" alt="" className="home-img" />
+                <img src="/Hero1.png" alt="" className="home-img" />
             </div>
         </div>
     )
