@@ -15,11 +15,6 @@ function Navbar() {
         );
     };
 
-    // const downloadHandle = () => {
-    //     window.open("https://drive.google.com/file/d/15AOvJU2Tmv30EjbsQn1AcCG01TLKP8eI/view", "_blank")
-    // }
-
-    //==============>
     const [activeSection, setActiveSection] = useState('home');
 
     useEffect(() => {

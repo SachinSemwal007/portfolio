@@ -59,14 +59,7 @@ const data = [
         githubLink: "https://github.com/SachinSemwal007/StopWatch",
         appLink: "https://stop-watch-2j0eu1wo3-sachin-semwals-projects.vercel.app/"
     },
-    // {
-    //     img: myPortfolio,
-    //     projectTitle: "My Portfolio",
-    //     techStack: ["React", "CSS", "JavaScript"],
-    //     description: "I am proud to present my personal portfolio website, built using React, a powerful JavaScript library for building user interfaces. This project reflects my skills, experiences, and the projects I've undertaken.",
-    //     githubLink: "https://github.com/1ashutoshverma/1ashutoshverma.github.io",
-    //     appLink: "https://1ashutoshverma.github.io/"
-    // }
+   
 ]
 
 
@@ -100,9 +93,7 @@ function Projects() {
                                     <p className="project-description">{e.description}</p>
                                     <div className={e.backendLink ? "projectButtons2" : "projectButtons1"}>
                                         <a href={e.githubLink} target="_blank"  rel="noreferrer"  className="project-github-link">{e.backendLink ? "Github Link" : "View Code"}</a>
-                                        {/* {
-                                            e.backendLink ? <a href={e.backendLink} target="_blank"  rel="noreferrer"  className="project-github-link">Backend Code</a> : <></>
-                                        } */}
+                                       
                                         <a href={e.appLink} target="_blank"  rel="noreferrer"  className="project-deployed-link">View Live</a>
                                     </div>
                                 </div>
@@ -123,9 +114,7 @@ function Projects() {
                                     <p className="project-description">{e.description}</p>
                                     <div className={e.backendLink ? "projectButtons2" : "projectButtons1"}>
                                         <a href={e.githubLink} target="_blank" rel="noreferrer" className="project-github-link">{e.backendLink ? "Github Link" : "View Code"}</a>
-                                        {/* {
-                                            e.backendLink ? <a href={e.backendLink} target="_blank" rel="noreferrer" className="project-github-link">Backend Code</a> : <></>
-                                        } */}
+                                        
                                         <a href={e.appLink} target="_blank" rel="noreferrer" className="project-deployed-link">View Live</a>
                                     </div>
                                 </div>
