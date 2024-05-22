@@ -45,7 +45,7 @@ const data = [
     },
     {
         img: ToDo,
-        projectTitle: "To Do List",
+        projectTitle: "To Do List : For Desktop View only",
         techStack: ["React","vite", "CSS", "Jsx" , "javascript"],
         description: "For the To-Do List React Application: Developed a To-Do list application using React, JSX, and CSS, equipped with features for adding, deleting, and prioritizing tasks by enabling users to move items up and down the list. Demonstrated proficiency in React development, JSX syntax, and CSS styling to create a seamless user experience for task management, showcasing strong problem-solving skills and a keen eye for interactive web application design.",
         githubLink: "https://github.com/SachinSemwal007/React_ToDoLIst",
