@@ -5,6 +5,7 @@ import Movies from "./projectImages/Movies.png"
 import Midhafin from "./projectImages/Midhafin.png"
 import ToDo from "./projectImages/ToDo.png"
 import StopWatch from "./projectImages/StopWatch.png"
+import weather from "./projectImages/weather.png"
 import "./Project.css"
 
 const data = [
@@ -42,6 +43,14 @@ const data = [
         description: "For the Shopping List Web Application project: Designed and developed a dynamic shopping list application utilizing HTML, CSS, and JavaScript, incorporating features like item addition, editing, and deletion alongside real-time updates through JavaScript. Styled the user interface with a responsive and visually appealing design using CSS, showcasing strong problem-solving and programming skills through the creation of an interactive web application.",
         githubLink: "https://github.com/SachinSemwal007/Shopping-List",
         appLink: "https://shopping-list-alpha-two.vercel.app/"
+    },
+    {
+        img: weather,
+        projectTitle: "Weather App",
+        techStack: ["Next.js", "Tailwind", "TypeScript" , "API"],
+        description: "In this Next.js project, a weather app is developed with Tailwind CSS and Open-Meteo APIs for weather and search related data. It includes current, daily, and hourly weather data (temperature, high/low, feels-like, wind, precip) sourced from the open-meteo API. The app detects the user's city automatically through browser geolocation and allows manual city search.",
+        githubLink: "https://github.com/SachinSemwal007/New-Weather-App-",
+        appLink: "https://new-weather-app-blue.vercel.app/"
     },
     {
         img: ToDo,
