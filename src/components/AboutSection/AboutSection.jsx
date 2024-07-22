@@ -5,7 +5,7 @@ function AboutSection() {
     <div id="about" className="about section">
       <h1>About Me</h1>
       <p id="user-detail-intro">
-        A Full Stack Web Developer with expertise in <b>MERN</b> Stack. I have
+        A Full Stack Web Developer with expertise in <b>MERN</b> <b>Stack</b>. I have
         solved 500+ DSA problems in C++ through various coding platforms such as
         :-
         <b>
