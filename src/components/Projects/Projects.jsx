@@ -38,7 +38,7 @@ const data = [
     },
     {
         img: Shopping,
-        projectTitle: "Shopping List",
+        projectTitle: "Shopping List Web Application",
         techStack: ["HTML", "CSS", "JavaScript"],
         description: "For the Shopping List Web Application project: Designed and developed a dynamic shopping list application utilizing HTML, CSS, and JavaScript, incorporating features like item addition, editing, and deletion alongside real-time updates through JavaScript. Styled the user interface with a responsive and visually appealing design using CSS, showcasing strong problem-solving and programming skills through the creation of an interactive web application.",
         githubLink: "https://github.com/SachinSemwal007/Shopping-List",
