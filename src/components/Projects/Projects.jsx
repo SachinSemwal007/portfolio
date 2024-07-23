@@ -77,7 +77,7 @@ const data = [
 function Projects() {
     return (
         <div id='projects'>
-            <h1>Projects</h1>
+            <h1>My Projects</h1>
 
             {
                 data.map((e, index) => {
