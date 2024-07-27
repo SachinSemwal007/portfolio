@@ -21,7 +21,7 @@ function AboutSection() {
         etc.. My tech toolkit includes{" "}
         <b>
           React, Redux, NEXT.js, Tailwind, Node, Express, Mongoose, MongoDB,
-          SQL, AWS, HTML, CSS, JavaScript, Typescript, Git{" "}
+          SQL, AWS, HTML, CSS, JavaScript, Typescript, Json, Postman , Git , Github{" "}
         </b>{" "}
         etc . I&apos;m passionate about creating efficient, elegant code and
         have experience in both front-end and back-end development. I thrive on
