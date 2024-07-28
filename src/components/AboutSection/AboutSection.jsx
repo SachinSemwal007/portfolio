@@ -16,7 +16,7 @@ function AboutSection() {
           ,{" "}
           <a href="https://codeforces.com/profile/sachinsemwal18">Codeforces</a>
           , <a href="https://www.codechef.com/users/sachinsemwal">Codechef</a> ,
-          <a href="https://leetcode.com/u/sachinsemwal18/"> leetcode</a>{" "}
+          <a href="https://leetcode.com/u/sachinsemwal18/"> Leetcode</a>{" "}
         </b>
         etc.. My tech toolkit includes{" "}
         <b>
