@@ -25,7 +25,7 @@ function Contact() {
                 </div>
                 <div id="contact-linkedin" className='contactCard' onClick={() => { sendto("https://www.linkedin.com/in/sachin-semwal-80a522225/") }}>
                     <img src={LinkedIn} alt="LinkedIn" />
-                    <h5>Linkedin</h5>
+                    <h5>LinkedIn</h5>
                     <p>Sachin Semwal</p>
                 </div>
                 <div id="contact-email" className='contactCard'>
