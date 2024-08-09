@@ -31,7 +31,7 @@ const data = [
     {
         img: Movies,
         projectTitle: "Movie catalogue Web Application",
-        techStack: ["HTML", "CSS", "JavaScript",],
+        techStack: ["HTML", "CSS", "JavaScript", "API"],
         description: "In this project, I developed a user-centric web-based movie catalog using HTML, CSS, and JavaScript, focusing on enhancing the user experience and managing data dynamically, with key highlights including crafting an engaging user interface with HTML and CSS, implementing interactive features such as movie search, genre-based filtering, and dynamic movie details display using JavaScript, and proficiently handling asynchronous tasks with callback functions for real-time data retrieval and updates, showcasing expertise in frontend development and asynchronous programming techniques, resulting in a polished and responsive movie catalog.",
         githubLink: "https://github.com/SachinSemwal007/Projects",
         appLink: "https://664335d47ca2dd009eee7d86--inspiring-squirrel-16798c.netlify.app/"
