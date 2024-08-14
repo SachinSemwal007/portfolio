@@ -66,7 +66,7 @@ const data = [
         techStack: ["React","vite", "CSS", "Jsx" , "javascript"],
         description: "Crafted a Stopwatch application with React, JSX, and Vite, providing real-time updates and versatile functionalities like pausing, stopping, and resetting. Employed visually appealing CSS styling to enhance the user interface, ensuring a seamless and captivating experience. Demonstrated adept problem-solving skills and attention to detail in creating an interactive and visually appealing stopwatch application, showcasing proficiency in React development, JSX syntax, and modern tooling with Vite for rapid development and optimization.",
         githubLink: "https://github.com/SachinSemwal007/StopWatch",
-        appLink: "https://stop-watch-2j0eu1wo3-sachin-semwals-projects.vercel.app/"
+        appLink: "https://stop-watch-rho-blond.vercel.app/"
     },
    
 ]
