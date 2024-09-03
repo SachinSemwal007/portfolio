@@ -1,6 +1,6 @@
 import  { useEffect, useState } from 'react'
 import "./Navbar.css"
-import resume from "./Sachin-Semwal-Resume.pdf"
+import resume from "./MyResume.pdf"
 function Navbar() {
     const [burger, setBurger] = useState(false);
 
