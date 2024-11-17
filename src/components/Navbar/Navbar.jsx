@@ -12,7 +12,7 @@ function Navbar() {
         window.open(
             "https://drive.google.com/file/d/1QxrxFvkysM5sq3g8vx--Tg48hgAyiL6z/view?usp=drive_link",
             "_blank"
-        );
+        ); 
     };
 
     const [activeSection, setActiveSection] = useState('home');
