@@ -35,7 +35,7 @@ function Contact() {
                 </div>
                 <div id="contact-phone" className='contactCard'>
                     <img src={Phone} alt="" />
-                    <h5>Phone</h5>
+                    <h5>Phone no.</h5>
                     <p>+91-7292887811</p>
                 </div>
             </div>
