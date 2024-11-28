@@ -48,7 +48,7 @@ function HomeSection() {
                             onClick={downloadHandle}>
                             Resume
                         </button>
-                        <button onClick={githubHandle} >
+                        <button onClick={githubHandle}>
                             GitHub
                         </button>
                     </div>
