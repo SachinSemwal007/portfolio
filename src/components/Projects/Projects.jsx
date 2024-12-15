@@ -103,7 +103,7 @@ function Projects() {
                         index % 2 == 0 ? (
                             <div className="project-card proCard1" key={index}>
                                 <div className='projectImg'>
-                                    <img src={e.img} alt="" />
+                                    <img src={e.img} alt=""/>
                                 </div>
                                 <div className='projectDetails'>
                                     <h2 className="project-title">{index + 1 + ". " + e.projectTitle}</h2>
