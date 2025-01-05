@@ -81,7 +81,7 @@ const data = [
     {
         img: StopWatch,
         projectTitle: "The Dynamic real Time Stop-Watch",
-        techStack: ["React", "vite", "Tailwind-css", "Jsx"],
+        techStack: ["React", "vite", "Tailwind-CSS", "Jsx"],
         description: "Crafted a Stopwatch application with React, JSX, and Vite, providing real-time updates and versatile functionalities like pausing, stopping, and resetting. Employed visually appealing CSS styling to enhance the user interface, ensuring a seamless and captivating experience. Demonstrated adept problem-solving skills and attention to detail in creating an interactive and visually appealing stopwatch application, showcasing proficiency in React development, JSX syntax, and modern tooling with Vite for rapid development and optimization.",
         githubLink: "https://github.com/SachinSemwal007/StopWatch",
         appLink: "https://stop-watch-rho-blond.vercel.app/"
