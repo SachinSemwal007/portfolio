@@ -39,7 +39,7 @@ const data = [
     {
         img: Midhafin,
         projectTitle: "Midhafin",
-        techStack: ["Next.js", "React", "Tailwind-CSS", "AWS", "TypeScript", "Node.js", "Express.js", "MongoDB"],
+        techStack: ["Next.js", "Tailwind-CSS", "AWS", "TypeScript", "Node.js", "Express.js", "MongoDB"],
         description: "MidhaFin was established in December 2011 (under the brand name FINATEE and later renamed to MidhaFin) with the main goal of providing excellent training for FRM®, CFA®, PRM, and several other courses.One of the hallmarks of MidhaFin is our status as one of the pioneering training providers in India to secure authorization from GARP in 2018",
         githubLink: "https://github.com/midhadomains/frm_midhafin_nextjs",
         appLink: "https://www.midhafin.com/",
