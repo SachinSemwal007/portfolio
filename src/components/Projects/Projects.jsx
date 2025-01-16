@@ -30,7 +30,7 @@ const data = [
     {
         img: Midha,
         projectTitle: "Midha Guru",
-        techStack: ["Next.js", "React", "Tailwind", "W3Forms", "AWS"],
+        techStack: ["Next.js", "Tailwind", "W3Forms", "AWS"],
         description: "At MidhaGuru, our mission is to empower students in grades 6 to 10 with the knowledge, skills and confidence needed to excel academically and personally. We are committed to providing high-quality education and fostering a nurturing learning environment that inspires curiosity, critical thinking and a lifelong love for learning. We have collaborated with India's best faculties to create a structured and student-friendly platform which gives high-end technological exposure to our students.",
         githubLink: "https://github.com/midhadomains/midha_guru_nextjs",
         appLink: "https://www.midha.guru/",
