@@ -29,7 +29,7 @@ const data = [
     },
     {
         img: Midha,
-        projectTitle: "Midha Guru[MG]",
+        projectTitle: "Midha Guru [MG]",
         techStack: ["Next.js", "Tailwind-CSS", "W3Forms", "MongoDB", "AWS"],
         description: "At MidhaGuru, our mission is to empower students in grades 6 to 10 with the knowledge, skills and confidence needed to excel academically and personally. We are committed to providing high-quality education and fostering a nurturing learning environment that inspires curiosity, critical thinking and a lifelong love for learning. We have collaborated with India's best faculties to create a structured and student-friendly platform which gives high-end technological exposure to our students.",
         githubLink: "https://github.com/midhadomains/midha_guru_nextjs",
@@ -38,7 +38,7 @@ const data = [
     },
     {
         img: Midhafin,
-        projectTitle: "Midhafin",
+        projectTitle: "Midhafin [MF]",
         techStack: ["Next.js", "Tailwind-CSS", "AWS", "TypeScript", "Node.js", "Express.js", "MongoDB"],
         description: "MidhaFin was established in December 2011 (under the brand name FINATEE and later renamed to MidhaFin) with the main goal of providing excellent training for FRM®, CFA®, PRM, and several other courses.One of the hallmarks of MidhaFin is our status as one of the pioneering training providers in India to secure authorization from GARP in 2018",
         githubLink: "https://github.com/midhadomains/frm_midhafin_nextjs",
