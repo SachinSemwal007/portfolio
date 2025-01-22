@@ -86,7 +86,7 @@ const data = [
         githubLink: "https://github.com/SachinSemwal007/StopWatch",
         appLink: "https://stop-watch-rho-blond.vercel.app/"
     }, 
-]
+] 
 
 
 
